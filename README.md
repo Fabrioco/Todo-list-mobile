@@ -1,50 +1,43 @@
-# Welcome to your Expo app 👋
+# Bem vindo ao Todo-list APP 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este projeto foi feito com Expo, com o intuito de poder fazer anotações, editar ou até mesmo exclui-las.
 
-## Get started
+## Como rodar o projeto
 
-1. Install dependencies
+Para rodar o projeto localmente, siga os passos abaixo:
 
-   ```bash
-   npm install
-   ```
+Clone o repositório: `git clone https://github.com/Fabrioco/Todo-list-mobile`
 
-2. Start the app
+Navegue até o diretório do projeto: `cd Todo-list-mobile`
 
-   ```bash
-    npx expo start
-   ```
+Instale as dependências: `npm install`
 
-In the output, you'll find options to open the app in a
+Inicie o servidor de desenvolvimento: `npx expo start`
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Abra seu emulador android ou seu APP Expo go
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Contribuindo
 
-## Get a fresh project
+Se você deseja contribuir para o projeto, siga os passos abaixo:
 
-When you're ready, run:
+Faça um fork do repositório.
 
-```bash
-npm run reset-project
-```
+Crie uma branch para sua feature ou correção: git checkout -b minha-feature
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Faça commit das suas alterações: git commit -m 'Adiciona minha nova feature'
 
-## Learn more
+Envie suas alterações para o repositório remoto: git push origin minha-feature
 
-To learn more about developing your project with Expo, look at the following resources:
+Abra um pull request.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Licença
 
-## Join the community
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
-Join our community of developers creating universal apps.
+Contato Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Nome: Fabrício Oliveira Lopes
+
+Email: fabriciooliveiralopes50@gmail.com
+
+LinkedIn: [Clique aqui](https://www.linkedin.com/in/fabr%C3%ADcio-oliveira-lopes-b713892bb/)
